@@ -20,3 +20,7 @@ terraform.rc — альтернативный конфигурационный �
 
 ## New line for tsk
 ### First line from VS
+#### Second line from VS
+`Картинка добавленная через VS для теста:`
+
+![Скриншот](https://raw.githubusercontent.com/nikitarostorguev8837-alt/devops-netology/main/img/test.png)
